@@ -7,8 +7,6 @@ import { NavLink } from "react-router-dom";
 import person from "./assets/person.png"
 import card from "./assets/card.png"
 
-
-
 export default class Home extends Component {
     constructor(props) {
         super(props);
